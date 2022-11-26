@@ -1,9 +1,9 @@
 import os
-
+#this test
 price = 0
 
 print('Welcome to Pizza Maker')
-
+print('Hallo')
 size = input('What size pizza do you want? S, M, or L?\n').lower()
 
 if size == 's':
